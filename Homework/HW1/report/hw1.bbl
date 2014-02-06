@@ -1,0 +1,15 @@
+\begin{thebibliography}{}
+
+\bibitem[Fua, 1993]{fua1993parallel}
+Fua, P. (1993).
+\newblock A parallel stereo algorithm that produces dense depth maps and
+  preserves image features.
+\newblock {\em Machine vision and applications}, 6(1):35--49.
+
+\bibitem[Scharstein and Szeliski, 2002]{scharstein2002taxonomy}
+Scharstein, D. and Szeliski, R. (2002).
+\newblock A taxonomy and evaluation of dense two-frame stereo correspondence
+  algorithms.
+\newblock {\em International journal of computer vision}, 47(1-3):7--42.
+
+\end{thebibliography}
